@@ -7,7 +7,7 @@ images/components/
 
 | Component | Function | Key Specification |
 |----------|----------|------------------|
-| CPU | | |
+| CPU |To process all data and execute program instructions. |Model & Speed: Brand(Intel/AMD),series(e.g., Corei5, Ryzen7), and clock speed in GHz. |
 | RAM | | |
 | Storage | | |
 | Motherboard | | |
