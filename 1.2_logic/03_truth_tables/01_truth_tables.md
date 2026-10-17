@@ -45,7 +45,7 @@ Output 3 = $(A + B) \times \overline C$
 
 **Truth Tables:**
 
-**Table A**>>>>>
+**Table A**>>>>>(XOR)
 
 | A | B | Output |
 |---|---|--------|
@@ -54,7 +54,7 @@ Output 3 = $(A + B) \times \overline C$
 | 1 | 0 |   1    |
 | 1 | 1 |   0    |
 
-**Table B**
+**Table B**>>>>>(A^B)
 
 | A | B | Output |
 |---|---|--------|
@@ -63,7 +63,7 @@ Output 3 = $(A + B) \times \overline C$
 | 1 | 0 |   0    |
 | 1 | 1 |   1    |
 
-**Table C**
+**Table C**>>>>>>(A
 
 | A | B | Output |
 |---|---|--------|
@@ -72,7 +72,7 @@ Output 3 = $(A + B) \times \overline C$
 | 1 | 0 |   1    |
 | 1 | 1 |   1    |
 
-**Table D**
+**Table D**>>>>>>(
 
 | A | Output |
 |---|--------|
