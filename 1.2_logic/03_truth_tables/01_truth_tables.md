@@ -45,7 +45,7 @@ Output 3 = $(A + B) \times \overline C$
 
 **Truth Tables:**
 
-**Table A**
+**Table A**>>>>>
 
 | A | B | Output |
 |---|---|--------|
