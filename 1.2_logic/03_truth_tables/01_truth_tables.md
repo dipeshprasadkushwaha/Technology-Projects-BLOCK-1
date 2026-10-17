@@ -63,7 +63,7 @@ Output 3 = $(A + B) \times \overline C$
 | 1 | 0 |   0    |
 | 1 | 1 |   1    |
 
-**Table C**>>>>>>(A
+**Table C**>>>>>>(A or B)
 
 | A | B | Output |
 |---|---|--------|
@@ -72,7 +72,7 @@ Output 3 = $(A + B) \times \overline C$
 | 1 | 0 |   1    |
 | 1 | 1 |   1    |
 
-**Table D**>>>>>>(
+**Table D**>>>>>>(!A)
 
 | A | Output |
 |---|--------|
