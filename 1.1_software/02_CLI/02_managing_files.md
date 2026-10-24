@@ -31,5 +31,5 @@ Practise working with files and folders.
 6. Delete `file2.txt`:
    ```bash
    rm file2.txt
-   ```
+   ```C:\Users\dipes\Downloads\1311.jpg
 
