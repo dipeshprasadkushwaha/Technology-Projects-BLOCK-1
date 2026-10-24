@@ -51,12 +51,12 @@ objdump -d hello_arm > hello_arm.disasm.txt
 ```
 **Prompts (add to `journal/02_asm_hello.md`)**:
 - Explain the role of `r0`, `r1`, `r2`, and `r7` in this program.
-- r0 tells the computer where to send the output.
-- r1 points to what message user want to print.
-- r2 tells the computer how many letters long the message is.
-- r7 tells the computer what to do.
+-     r0 tells the computer where to send the output.
+      r1 points to what message user want to print.
+      r2 tells the computer how many letters long the message is.
+      r7 tells the computer what to do.
 - What does `svc #0` do on Linux/ARM?
-- svc #0 stands for "Superior Call" which acts like pressing a "submit" button to hand user's request over the operating system.
+-      svc #0 stands for "Superior Call" which acts like pressing a "submit" button to hand user's request over the operating system.
 - Include a screenshot showing the message.
 
 ---
