@@ -31,6 +31,8 @@ Practise working with files and folders.
 6. Delete `file2.txt`:
    ```bash
    rm file2.txt
-   ```<img width="3072" height="4096" alt="1311" src="https://github.com/user-attachments/assets/bb0d49a1-dac6-4541-a4cd-6b27290911d9" />
+   ```
+   <img width="3072" height="4096" alt="1311" src="https://github.com/user-attachments/assets/bb0d49a1-dac6-4541-a4cd-6b27290911d9" />
+
 
 
