@@ -59,4 +59,5 @@ objdump -d hello_arm > hello_arm.disasm.txt
 - svc #0 stands for "Superior Call" which acts like pressing a "submit" button to hand user's request over the operating system.
 - Include a screenshot showing the message.
 
----
+---<img width="3072" height="4096" alt="1306" src="https://github.com/user-attachments/assets/2449c2f3-3d1e-46bf-8010-80bb8bcae850" />
+
