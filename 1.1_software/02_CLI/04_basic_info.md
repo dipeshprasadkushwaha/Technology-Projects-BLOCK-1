@@ -17,5 +17,6 @@ Use CLI commands to inspect your system.
    free -h
    ```
 **Upload screenshots for every step**
+<img width="3072" height="4096" alt="1314" src="https://github.com/user-attachments/assets/86486de5-ff8f-4e78-8e70-8db0d7930dfa" />
 
 
