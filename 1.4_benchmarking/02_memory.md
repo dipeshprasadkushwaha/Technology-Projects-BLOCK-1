@@ -16,4 +16,4 @@ free -h
 
 📁 Save results in `results/memory.txt`
 <img width="3072" height="4096" alt="1548" src="https://github.com/user-attachments/assets/a44f1f56-e3e2-49f9-a16f-6cc6b9234d22" />
-<img width="3072" height="1904" alt="1681" src="https://github.com/user-attachments/assets/290de12c-326e-428b-be3a-bd7ef52dba4c" />
+<img width="3072" height="1904" alt="1681 (1)" src="https://github.com/user-attachments/assets/03262b96-3a5f-4080-81e9-9a41055c17df" />
