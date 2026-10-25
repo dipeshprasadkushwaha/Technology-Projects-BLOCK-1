@@ -6,7 +6,9 @@ It's a normal desktop computer with a black metal and plastic case. On the front
 Insert image:
 ```
 images/system/computer-before.jpg
-```
+``
+<img width="1024" height="628" alt="1000051151" src="https://github.com/user-attachments/assets/4092ecda-f25d-46ee-b540-4299e292ded7" />
+
 ## Internal Layout
 Open the computer case and observe the internal components.
 Describe what you see.
