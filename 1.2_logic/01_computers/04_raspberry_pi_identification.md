@@ -1,10 +1,33 @@
 # Part 4 – Raspberry Pi Hardware Identification
 Upload:
-```
-images/raspberry-pi/pi-board.jpg
-images/raspberry-pi/labelled-pi-board.jpg
-```
----
+<img width="1536" height="1024" alt="1000051155" src="https://github.com/user-attachments/assets/405b5e94-4e7a-4c71-aef4-a9f5fbf54a66" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 | Component | Function |
 |-----------|----------|
