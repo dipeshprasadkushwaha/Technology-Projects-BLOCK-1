@@ -9,7 +9,7 @@ images/components/
 |----------|----------|------------------|
 | CPU |To process all data and execute program instructions. |Model & Speed: Brand(Intel/AMD),series(e.g., Corei5, Ryzen7), and clock speed in GHz. |
 | RAM |To hold the data temporarily which active programs need to access immediately. |Capacity & Type: Total size in gigabytes(e.g.,8GB,16GB) and generation type(e.g.,DDR4,DDR5).|
-| Storage | | |
+| Storage |Permanent long term memory where operating system, files, apps and games are saved. |Type & Capacity: Drive format(SSD or HDD) and maximum storage capacity(e.g, 512GB, 1TB). |
 | Motherboard | | |
 | Power Supply | | |
 | Cooling | | |
