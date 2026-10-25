@@ -19,4 +19,3 @@ images/system/computer-opened.jpg
 
 <img width="1024" height="628" alt="1000051151" src="https://github.com/user-attachments/assets/4092ecda-f25d-46ee-b540-4299e292ded7" />
 
-<img width="1312" height="1199" alt="1000051148" src="https://github.com/user-attachments/assets/1f612e7e-dd1b-4102-870a-0d2eeb396525" />
