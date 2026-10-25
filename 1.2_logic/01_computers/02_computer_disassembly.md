@@ -16,3 +16,4 @@ Insert image:
 ```
 images/system/computer-opened.jpg
 ```
+<img width="1312" height="1199" alt="1000051148" src="https://github.com/user-attachments/assets/1f612e7e-dd1b-4102-870a-0d2eeb396525" />
